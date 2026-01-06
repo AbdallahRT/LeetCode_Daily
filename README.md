@@ -23,4 +23,20 @@
 |  |
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
+## Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
