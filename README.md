@@ -27,10 +27,12 @@
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,4 +41,5 @@
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
