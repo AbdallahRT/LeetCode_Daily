@@ -6,12 +6,14 @@
 | ------- |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 ## Greedy
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
