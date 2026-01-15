@@ -9,6 +9,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
+## Sorting
+|  |
+| ------- |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
