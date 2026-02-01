@@ -10,6 +10,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,9 @@
 |  |
 | ------- |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
