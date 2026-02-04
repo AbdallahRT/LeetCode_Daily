@@ -12,6 +12,7 @@
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3952-trionic-array-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
 ## Geometry
 |  |
 | ------- |
