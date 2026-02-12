@@ -32,6 +32,7 @@
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -85,8 +87,13 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Counting
+|  |
+| ------- |
+| [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
