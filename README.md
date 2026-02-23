@@ -32,6 +32,7 @@
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
@@ -96,4 +98,16 @@
 |  |
 | ------- |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
