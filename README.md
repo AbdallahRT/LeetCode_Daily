@@ -39,6 +39,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -46,6 +47,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -58,6 +60,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
