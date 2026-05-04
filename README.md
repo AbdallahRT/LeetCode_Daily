@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
@@ -18,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 ## Greedy
@@ -27,6 +29,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
 ## Hash Table
 |  |
