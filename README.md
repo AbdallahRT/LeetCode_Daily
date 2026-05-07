@@ -10,6 +10,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
+| [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -128,4 +130,5 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0061-rotate-list) |
+| [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
