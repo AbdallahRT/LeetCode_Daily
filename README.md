@@ -17,6 +17,7 @@
 | [3651-transformed-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3651-transformed-array) |
 | [3952-trionic-array-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
+| [3981-jump-game-ix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3981-jump-game-ix) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
+| [3981-jump-game-ix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3981-jump-game-ix) |
 ## Geometry
 |  |
 | ------- |
