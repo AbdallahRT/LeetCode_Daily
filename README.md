@@ -12,6 +12,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3651-transformed-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3651-transformed-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
 | [3981-jump-game-ix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3981-jump-game-ix) |
 ## Geometry
