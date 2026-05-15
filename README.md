@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -135,4 +136,8 @@
 | ------- |
 | [0061-rotate-list](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0061-rotate-list) |
 | [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
