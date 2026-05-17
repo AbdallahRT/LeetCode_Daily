@@ -3,25 +3,25 @@ public:
     bool canReach(vector<int>& arr, int start) {
         int n =arr.size();
         vector<bool>vis(n,0);
-        queue<pair<int,int>>q;
-        q.push({start,arr[start]});
+        queue<int>q;
+        q.push(start);
         vis[start]=1;
         while(q.size())
         {
-            auto [ind , val]=q.front();
+            int ind=q.front();
             q.pop();
-            if(val==0)return true;
-            int nx=ind+val;
-            int pv=ind-val;
+            if(arr[ind]==0)return true;
+            int nx=ind+arr[ind];
+            int pv=ind-arr[ind];
             if(nx<n&&!vis[nx])
             {
                 vis[nx]=1;
-                q.push({nx,arr[nx]});
+                q.push(nx);
             }
             if(pv>=0&&!vis[pv])
             {
                 vis[pv]=1;
-                q.push({pv,arr[pv]});
+                q.push(pv);
             }
         }
         return false;
