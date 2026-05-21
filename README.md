@@ -18,6 +18,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3651-transformed-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3651-transformed-array) |
 | [3952-trionic-array-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3956-trionic-array-ii) |
@@ -44,6 +45,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
@@ -108,6 +110,7 @@
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -145,4 +148,8 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
