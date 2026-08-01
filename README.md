@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/2089-maximum-matrix-sum) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
@@ -96,6 +98,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
@@ -111,6 +114,7 @@
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
@@ -122,6 +126,7 @@
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/4055-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
