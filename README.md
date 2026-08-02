@@ -28,6 +28,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0367-valid-perfect-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0367-valid-perfect-square) |
 ## Trie
 |  |
 | ------- |
