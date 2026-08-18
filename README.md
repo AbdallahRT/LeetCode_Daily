@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1428-jump-game-iii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1428-jump-game-iii) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
