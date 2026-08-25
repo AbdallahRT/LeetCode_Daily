@@ -9,6 +9,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1395-minimum-time-visiting-all-points) |
 | [1428-jump-game-iii](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1428-jump-game-iii) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [1972-rotating-the-box](https://github.com/AbdallahRT/LeetCode_Daily/tree/master/1972-rotating-the-box) |
 ## Binary Search
 |  |
